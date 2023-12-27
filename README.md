@@ -1,4 +1,5 @@
-#  Link Net Buscador Empresarial Intranet parece ser específica ao contexto do seu projeto. Geralmente, a descrição de um projeto no GitHub ou em qualquer plataforma de desenvolvimento fornece informações sobre o propósito, funcionalidades e tecnologias utilizadas no projeto. Aqui está um exemplo genérico de como você pode estruturar a descrição do seu projeto:
+#  Link Net Buscador Empresarial Intranet parece ser específica ao contexto do seu projeto. 
+Geralmente, a descrição de um projeto no GitHub ou em qualquer plataforma de desenvolvimento fornece informações sobre o propósito, funcionalidades e tecnologias utilizadas no projeto. Aqui está um exemplo genérico de como você pode estruturar a descrição do seu projeto:
 
 Link Net Buscador Empresarial Intranet
 Bem-vindo ao repositório do Link Net Buscador Empresarial Intranet! Este projeto tem como objetivo fornecer uma plataforma de busca interna para empresas, facilitando o acesso e a localização de informações essenciais dentro do ambiente corporativo.
